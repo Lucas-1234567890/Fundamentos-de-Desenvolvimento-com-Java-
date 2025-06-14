@@ -59,7 +59,7 @@ O objetivo destes exercícios foi fixar os conceitos básicos da linguagem Java.
 
 ## 📸 Prints de Tela
 
-Dentro da pasta `/prints/` estão os seguintes registros:
+Dentro do repositório pdf estão os seguintes registros:
 
 - Configuração do JDK
 - Execução de cada exercício
