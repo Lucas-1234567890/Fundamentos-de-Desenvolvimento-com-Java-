@@ -7,7 +7,7 @@
 **Curso:** Engenharia de Dados e IA – EDC  
 **Disciplina:** Fundamentos de Programação com Java  
 **IDE utilizada:** Eclipse  
-**JDK:** Versão mais recente disponível (conforme exercício 1)
+**JDK:** 1.8.0_202
 
 
 ---
