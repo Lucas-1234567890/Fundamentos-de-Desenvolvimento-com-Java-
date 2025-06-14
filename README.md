@@ -79,6 +79,6 @@ Esse projeto me ajudou a fixar os conceitos básicos de programação em Java, i
 
 **Lucas Amorim Porciuncula**
 
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com) (troque pelo seu link real caso queira).
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com) (https://www.linkedin.com/in/lucas-amorim-powerbi/)].
 
 ---
