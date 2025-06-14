@@ -1,6 +1,7 @@
 # 📚 Projeto Java – Exercícios de Fixação (Ambiente, Sintaxe e Estrutura de Controle)
 
 **Autor:** Lucas Amorim Porciuncula  
+**Professor:** Elberth Moraes
 **Curso:** Engenharia de Dados e IA – EDC  
 **Disciplina:** Fundamentos de Programação com Java  
 **IDE utilizada:** Eclipse  
